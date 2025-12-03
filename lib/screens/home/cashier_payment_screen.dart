@@ -986,7 +986,6 @@ class _CashierPaymentScreenState extends State<CashierPaymentScreen> {
       );
       return;
     }
-    // --- BATAS PERUBAHAN ---
 
     // --- PERUBAHAN: Nama layanan dinamis ---
     final String serviceName = _serviceType == 'meja'
